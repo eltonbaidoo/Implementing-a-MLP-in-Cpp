@@ -17,7 +17,7 @@ A comprehensive implementation of a Multi-Layer Perceptron (MLP) neural network 
 - **Comprehensive Examples**: MLP training, computer vision, and memory management demos
 - **Extensible Architecture**: Easy to extend with custom layers and activation functions
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/
@@ -208,7 +208,7 @@ We welcome contributions! Here are some areas where you can help:
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Andrej Karpathy**: For the original [micrograd](https://github.com/karpathy/micrograd) library
 - **Gautam Sharma**: Creator of the [microgradpp](https://github.com/ggsharma/microgradpp) library

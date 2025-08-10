@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/cmake_install.cmake",
+		"/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/examples/cmake_install.cmake",
+		"/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

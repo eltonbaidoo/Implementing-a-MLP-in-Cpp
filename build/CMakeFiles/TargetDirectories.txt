@@ -1,0 +1,13 @@
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/CMakeFiles/m++.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/CMakeFiles/edit_cache.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/CMakeFiles/rebuild_cache.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/examples/CMakeFiles/example_images.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/examples/CMakeFiles/example_mlp.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/examples/CMakeFiles/edit_cache.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/examples/CMakeFiles/rebuild_cache.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/generate_baseline.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/testLayer.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/testNeuron.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/testValue.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/edit_cache.dir
+/Users/eltonbaidoo/Documents/Projects/Implementing-a-Multi-Layer-Perceptron-MLP-in-C-/external/microgradpp/build/tests/CMakeFiles/rebuild_cache.dir

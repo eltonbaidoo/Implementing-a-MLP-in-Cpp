@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/example_mlp.dir/mlp.cpp.o -o example_mlp  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libtbb.12.16.dylib
