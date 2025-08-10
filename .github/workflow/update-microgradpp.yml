@@ -1,0 +1,33 @@
+name: Update microgradpp submodule
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (with submodules)
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update submodule to latest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git submodule update --remote external/microgradpp
+          if [ -n "$(git status --porcelain)" ]; then
+            git add external/microgradpp
+            git commit -m "chore: bump microgradpp submodule"
+          fi
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "chore: bump microgradpp submodule"
+          commit-message: "chore: bump microgradpp submodule"
+          branch: chore/bump-microgradpp
+          delete-branch: true
