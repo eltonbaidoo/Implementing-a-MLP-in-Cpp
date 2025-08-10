@@ -1,0 +1,4 @@
+[submodule "external/microgradpp"]
+	path = external/microgradpp
+	url = https://github.com/ggsharma/microgradpp.git
+	branch = main
