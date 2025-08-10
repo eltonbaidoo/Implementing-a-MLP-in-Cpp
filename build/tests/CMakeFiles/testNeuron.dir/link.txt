@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/testNeuron.dir/testNeuron.cpp.o -o ../testNeuron  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libtbb.12.16.dylib
